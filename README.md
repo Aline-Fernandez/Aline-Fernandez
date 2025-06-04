@@ -13,22 +13,14 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 
 <h2 align="center">🚀 Tecnologias que eu uso no meu dia a dia</h2>
 
-<p align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="
-    height: 32px;
-    width: 32px;" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"  style="
-    height: 32px;
-    width: 32px; />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height: 32px;
-    width: 32px; />
-          
-          
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
 
 ---
 
@@ -56,23 +48,14 @@ Atualmente, estou focada no estudo de <strong>C#</strong>, <strong>.NET</strong>
 
 ---
 
-<h2 align="center">📌 Projetos em destaque</h2>
+<h2 align="center">📫 Como me contatar</h2>
 
 <p align="center">
-🔗 <a href="https://github.com/Aline-Fernandez/nome-do-projeto">Nome do Projeto</a> – Breve descrição do que ele faz. <br>
-<!-- Adicione mais projetos reais aqui -->
-</p>
-
----
-
-<h2 align="center">📫 Como me encontrar</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aline-fernandes-525a0b23b/="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="alinetecpd@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
 
