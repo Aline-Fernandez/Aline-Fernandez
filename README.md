@@ -44,9 +44,6 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 
 ---
 
-
----
-
 <h2 align="center">✨ Sobre mim</h2>
 
 <p align="center">
