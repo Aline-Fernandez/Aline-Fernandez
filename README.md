@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" />
+<img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 900px;" />
 </p>
 
 <h1 align="center">Olá! Eu sou a Aline Fernandes 🖐️</h1>
@@ -34,7 +34,7 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 ---
 
 <p align="center">
-  <img src="https://github.com/Aline-Fernandez/Aline-Fernandez/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/Aline-Fernandez/Aline-Fernandez/output/github-contribution-grid-snake.svg?palette=https://raw.githubusercontent.com/Aline-Fernandez/commit-snak/main/palette.json" alt="snake gif" />
 </p>
 
 ---
@@ -51,8 +51,7 @@ Atualmente, estou focada no estudo de <strong>C#</strong>, <strong>.NET</strong>
 
 <h2 align="center">📫 Como me contatar</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aline-fernandes-525a0b23b/" target="_blank">
+<p align="center"><a href="https://www.linkedin.com/in/aline-fernandes-525a0b23b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alinetecpd@hotmail.com">
