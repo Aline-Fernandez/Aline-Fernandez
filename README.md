@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 900px; max-height: 150px; object-fit: contain;" />
 </p>
 
-<h1 align="center">Olá! Eu sou a Aline Fernandes 🙋🏻‍♀️</h1>
+<h1 align="center">Olá! Eu sou a Aline Fernandes 🖐️</h1>
 
 <p align="center">
 Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com mais de 8 anos de experiência na área da saúde. <br>
@@ -32,7 +32,6 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 </p>
 
 ---
-## 🐍 Snake Game Contributions
 
 <p align="center">
   <img src="https://github.com/Aline-Fernandez/Aline-Fernandez/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
