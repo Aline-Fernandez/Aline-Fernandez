@@ -34,7 +34,7 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aline-Fernandez/Aline-Fernandez/output/github-contribution-grid-snake.svg?palette=https://raw.githubusercontent.com/Aline-Fernandez/commit-snak/main/palette.json" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/Aline-Fernandez/Aline-Fernandez/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
