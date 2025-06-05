@@ -33,8 +33,6 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 
 ---
 
-<h2 align="center">🐍 Snake Contribution</h2>
-
 <p align="center">
   <img src="https://github.com/Aline-Fernandez/Aline-Fernandez/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
