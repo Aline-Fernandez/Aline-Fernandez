@@ -2,12 +2,15 @@
 <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 900px;" />
 </p>
 
-<h1 align="center">Olá! Eu sou a Aline Fernandes 🖐️</h1>
+<h1 align="center">Olá! Eu sou a Aline Fernandes 🖐️</h1><br>
 
 <p align="center">
-Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com mais de 8 anos de experiência na área da saúde. <br>
-Estou em transição de carreira para a área de <strong>tecnologia</strong>, com foco em <strong>Desenvolvimento com C#</strong> e <strong>Testes de Software</strong>. 💻✨  
+<p align="center">
+Apaixonada por tecnologia, com experiência profissional consolidada e focada no desenvolvimento de  Software. 💻✨  
+</p><br><br>
+ 
 </p>
+
 
 ---
 
@@ -20,7 +23,7 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-</div>
+</div><br>
 
 ---
 
@@ -30,8 +33,6 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
   <img src="https://github-readme-stats.vercel.app/api?username=Aline-Fernandez&theme=neon&bg_color=1f1f1f" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Fernandez&layout=compact&theme=neon&bg_color=1f1f1f" height="180px"/>
 </p>
-
----
 
 ---
 
@@ -47,9 +48,10 @@ Estou em transição de carreira para a área de <strong>tecnologia</strong>, co
 <h2 align="center">✨ Sobre mim</h2>
 
 <p align="center">
-Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo mais de <strong>8 anos de experiência na área da saúde</strong>, atuando como <strong>técnica em prótese dentária</strong> em ambientes que exigem organização, precisão e atenção ao cliente. <br><br>
-Ao longo da minha trajetória, desenvolvi competências como <strong>resolução de problemas</strong>, <strong>gestão de processos</strong> e <strong>trabalho em equipe</strong>, habilidades que agora direciono para minha <strong>transição de carreira para a área de tecnologia</strong>. <br><br>
-Atualmente, estou focada no estudo de <strong>C#</strong>, <strong>.NET</strong> e <strong>testes de software</strong>, aplicando esses conhecimentos em <strong>exercícios práticos e projetos pessoais</strong> para consolidar meu aprendizado e evolução na área.
+Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com forte perfil analítico e com experiência em ambientes técnicos exigentes. Atuei por anos em funções que exigem precisão, controle de processos, comunicação clara entre áreas e resolução ágil de problemas, habilidades que aplico atualmente na área de Tecnologia.<br><br>
+Durante essa trajetória, desenvolvi forte senso de organização, atenção a detalhes, comunicação entre equipes e foco em resultados. Sempre procurei contribuir para a melhoria dos processos e a resolução de problemas operacionais, buscando promover um fluxo de trabalho mais eficiente.<br><br>
+Venho me especializando em <strong>C#</strong> e boas práticas de desenvolvimento, participando de cursos e projetos práticos que reforçam meu aprendizado contínuo.<br><br>
+Busco uma oportunidade como <strong>Analista de Suporte Técnico</strong> ou <strong>Desenvolvedora Júnior</strong>, onde eu possa contribuir com minhas habilidades técnicas, minha experiência com organização de processos, além da minha responsabilidade, comprometimento com resultados e vontade constante de aprender.
 </p>
 
 ---
