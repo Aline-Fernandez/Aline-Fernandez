@@ -48,10 +48,10 @@ Apaixonada por tecnologia, com experiência profissional consolidada e focada no
 <h2 align="center">✨ Sobre mim</h2>
 
 <p align="center">
-Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, com forte perfil analítico e com experiência em ambientes técnicos exigentes. Atuei por anos em funções que exigem precisão, controle de processos, comunicação clara entre áreas e resolução ágil de problemas, habilidades que aplico atualmente na área de Tecnologia.<br><br>
+Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualmente curso pós-graduação em <strong>Engenharia de Software com Métodos Ágeis</strong>, com forte perfil analítico e com experiência em ambientes técnicos exigentes. Atuei por anos em funções que exigem precisão, controle de processos, comunicação clara entre áreas e resolução ágil de problemas, habilidades que aplico atualmente na área de Tecnologia.<br><br>
 Durante essa trajetória, desenvolvi forte senso de organização, atenção a detalhes, comunicação entre equipes e foco em resultados. Sempre procurei contribuir para a melhoria dos processos e a resolução de problemas operacionais, buscando promover um fluxo de trabalho mais eficiente.<br><br>
-Venho me especializando em <strong>C#</strong> e boas práticas de desenvolvimento, participando de cursos e projetos práticos que reforçam meu aprendizado contínuo.<br><br>
-Busco uma oportunidade como <strong>Analista de Suporte Técnico</strong> ou <strong>Desenvolvedora Júnior</strong>, onde eu possa contribuir com minhas habilidades técnicas, minha experiência com organização de processos, além da minha responsabilidade, comprometimento com resultados e vontade constante de aprender.
+Venho me especializando em <strong>C#</strong> e boas práticas de desenvolvimento por meio de curso e projetos práticos. Também estou aprofundando conhecimentos em Projetos de Sistemas de TI, estudando metodologias ágeis, levantamento e análise de requisitos e modelagem de processos. <br><br>
+Busco uma oportunidade onde eu possa contribuir com minhas habilidades técnicas, minha experiência com organização de processos, além da minha responsabilidade, comprometimento com resultados e vontade constante de aprender.
 </p>
 
 ---
