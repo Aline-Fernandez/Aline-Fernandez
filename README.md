@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 700px;" />
+  <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 900px;" />
 </p>
 
-# <br>✨ Sobre mim
+# ✨ Sobre mim
 
 🧡 Apaixonada por tecnologia e desenvolver soluções  
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
