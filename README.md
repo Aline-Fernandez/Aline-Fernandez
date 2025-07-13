@@ -6,7 +6,7 @@
 
 🧡 Apaixonada por tecnologia e desenvolver soluções  
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
-🎓 Cursando Pós-graduanda em Engenharia de Software com Métodos Ágeis  
+🎓 Pós-graduanda em Engenharia de Software com Métodos Ágeis  
 💼 Experiência com controle de processos e resolução de problemas  
 💻 Em busca de uma oportunidade para aplicar meus conhecimentos  
 
