@@ -4,11 +4,11 @@
 
 # ✨ Sobre mim
 
-🧡 Apaixonada por tecnologia e desenvolver soluções  
-🎓 Graduada em Análise e Desenvolvimento de Sistemas  
-🎓 Pós-graduanda em Engenharia de Software com Métodos Ágeis  
-💼 Experiência com controle de processos e resolução de problemas  
-💻 Em busca de uma oportunidade para aplicar meus conhecimentos  
+Olá! Sou **Analista e Desenvolvedora de Sistemas**, impulsionada pela **paixão em desenvolver soluções** e pela constante busca por conhecimento.
+
+Sou **Pós-graduanda em Engenharia de Software com Métodos Ágeis** e trago uma bagagem única de **8 anos na área da saúde** (Auxiliar de Saúde Bucal e Técnica em Prótese Dentária). Essa experiência me consolidou em **controle rigoroso de processos, precisão, atenção a detalhes e resolução de problemas**, habilidades que agora aplico integralmente no universo da tecnologia.
+
+Especializada em **C# e .NET**, com foco em **boas práticas de desenvolvimento**, busco uma oportunidade desafiadora onde possa colaborar, aprender e crescer, transformando ideias em código funcional e de alta qualidade.
 
 ---
 
