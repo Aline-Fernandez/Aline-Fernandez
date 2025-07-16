@@ -31,10 +31,10 @@ Especializada em **C# e .NET**, com foco em **boas práticas de desenvolvimento*
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aline-Fernandez&theme=neon&bg_color=1f1f1f" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Fernandez&layout=compact&theme=neon&bg_color=1f1f1f" height="180px"/>
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aline-Fernandez&theme=neon&bg_color=1f1f1f" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Fernandez&layout=compact&theme=neon&bg_color=1f1f1f" width="315px"/>
+</div>
 
 ---
 
