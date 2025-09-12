@@ -4,11 +4,9 @@
 
 # ✨ Sobre mim
 
-Olá! Sou **Analista e Desenvolvedora de Sistemas**, impulsionada pela **paixão em desenvolver soluções** e pela constante busca por conhecimento.
+**Apaixonada por tecnologia e pela resolução de problemas**, estou em transição da área da saúde para o desenvolvimento de software. Durante mais de 8 anos atuei em funções que exigiam organização, precisão e comunicação clara.
 
-Sou **Pós-graduanda em Engenharia de Software com Métodos Ágeis** e trago uma bagagem única de **8 anos na área da saúde** (Auxiliar de Saúde Bucal e Técnica em Prótese Dentária). Essa experiência me consolidou em **controle rigoroso de processos, precisão, atenção a detalhes e resolução de problemas**, habilidades que agora aplico integralmente no universo da tecnologia.
-
-Especializada em **C# e .NET**, com foco em **boas práticas de desenvolvimento**, busco uma oportunidade desafiadora onde possa colaborar, aprender e crescer, transformando ideias em código funcional e de alta qualidade.
+Atualmente, curso a **Pós-Graduação em Engenharia de Software com Métodos Ágeis e me especializo em C#, .NET, SQL e JavaScript**, com foco em boas práticas de código. Busco minha primeira oportunidade na área de tecnologia, onde possa contribuir com minhas habilidades técnicas, meu comprometimento e minha vontade constante de aprender.
 
 ---
 
