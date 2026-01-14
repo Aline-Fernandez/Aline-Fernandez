@@ -29,15 +29,6 @@ Busco uma oportunidade de estágio onde eu possa contribuir com minha proativida
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aline-Fernandez&theme=neon&bg_color=1f1f1f" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Fernandez&layout=compact&theme=neon&bg_color=1f1f1f" width="315px"/>
-</div>
-
----
-
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aline-Fernandez/Aline-Fernandez/output/github-contribution-grid-snake-dark.svg">
