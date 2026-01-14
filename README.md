@@ -4,9 +4,11 @@
 
 # ✨ Sobre mim
 
-**Apaixonada por tecnologia e pela resolução de problemas**, estou em transição da área da saúde para o desenvolvimento de software. Durante mais de 8 anos atuei em funções que exigiam organização, precisão e comunicação clara.
+Sou formada em Análise e Desenvolvimento de Sistemas e, atualmente, estou cursando Engenharia de Software (bacharelado) e uma Pós-graduação em Engenharia de Software com Métodos Ágeis. Meu foco é construir uma carreira sólida baseada em boas práticas de desenvolvimento, qualidade de código e agilidade.
 
-Atualmente, curso a **Pós-Graduação em Engenharia de Software com Métodos Ágeis e me especializo em C#, .NET, SQL e JavaScript**, com foco em boas práticas de código. Busco minha primeira oportunidade na área de tecnologia, onde possa contribuir com minhas habilidades técnicas, meu comprometimento e minha vontade constante de aprender.
+Tenho facilidade em transitar entre diferentes tecnologias, com base sólida em Lógica de Programação, Bancos de Dados SQL e Engenharia de Requisitos. Minha experiência profissional anterior me trouxe uma maturidade diferenciada em resolução de problemas complexos, atenção minuciosa a detalhes técnicos e visão analítica para melhoria de processos.
+
+Busco uma oportunidade de estágio onde eu possa contribuir com minha proatividade e capacidade de aprendizado rápido, aplicando conceitos de Scrum, Kanban e testes para entregar software de valor.
 
 ---
 
