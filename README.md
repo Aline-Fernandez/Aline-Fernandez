@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1749074685/logo-LinkedIn-Banner_mzuioq.png" alt="Banner" width="100%" style="max-width: 900px;" />
+  <img src="https://res.cloudinary.com/dja8qnot3/image/upload/v1771877080/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner_lhdizs.png" alt="Banner" width="100%" style="max-width: 900px;" />
 </p>
 
 # ✨ Sobre mim
